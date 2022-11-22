@@ -121,6 +121,11 @@ html {
     align-items: center;
     gap: 1em;
     font-size: 20px;
+
+}
+
+.item button{
+    float: right
 }
 
 .item strong {
